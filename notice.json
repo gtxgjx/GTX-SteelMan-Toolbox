@@ -1,0 +1,7 @@
+{
+  "items": [
+    { "text": "钢铁侠工具箱 v1.0 已发布，感谢使用！", "url": "https://github.com/gtxgjx/GTX-SteelMan-Toolbox" },
+    { "text": "遇到问题请到关于页联系我，或在仓库提 Issue 反馈。", "url": "https://github.com/gtxgjx/GTX-SteelMan-Toolbox/issues" },
+    { "text": "本工具箱基于开源项目 VioletToolBox 二次开发，遵循原开源协议。" }
+  ]
+}
