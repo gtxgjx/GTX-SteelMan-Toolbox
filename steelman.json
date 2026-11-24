@@ -1,14 +1,11 @@
 {
   "appName": "钢铁侠工具箱",
-  "version": "1.1",
-  "build": 111,
-  "releaseDate": "2026-12-01",
+  "version": "1.0",
+  "build": 100,
+  "releaseDate": "2026-11-24",
   "mandatory": false,
   "downloadUrl": "https://4006621814.share.123pan.cn/123pan/nMwEwh-6GlwH?pwd=gtxd#",
   "releaseNotes": [
-    "新增：投屏界面支持自定义标题与虚拟按键开关",
-    "新增：刷机资源下载专区新增备用线路",
-    "修复：部分机型在 Fastboot 模式下识别不到设备的问题",
-    "优化：整体启动速度提升约 20%"
+    "首个版本，基于 VioletToolBox 二次开发"
   ]
 }
